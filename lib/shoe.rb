@@ -21,6 +21,5 @@ if !BRANDS.include?(brand)
   BRANDS << brand
   end
   end
-  
 
 end
